@@ -10,7 +10,7 @@ The main concept here is that the mainline Lua project is the source of truth fo
 
 ## Example API usage
 
-** TODO **
+If you would like to declare a remote dependency on `glua-kit` from your Bazel project, take a look at [this example](https://github.com/popovicu/glua-kit-example) to see how.
 
 ## Go demo
 
